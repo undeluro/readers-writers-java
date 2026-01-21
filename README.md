@@ -1,6 +1,6 @@
 # Readers-Writers Problem Simulation
 
-A robust implementation of the classic Readers-Writers synchronization problem in Java, ensuring fairness and starvation absence using a single Semaphore.
+A robust implementation of the classic Third Readers-Writers (Starve-Free) synchronization problem in Java, ensuring fairness and starvation absence using a single Semaphore.
 
 ## A little bit of theory
 
